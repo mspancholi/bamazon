@@ -26,7 +26,7 @@ However, if your store _does_ have enough of the product, you should fulfill the
 
 - - -
 
-### As a Manager below is the descriptions what the app allows:
+### As a Manager below is the description of what the app allows:
 
 The manager can select the following choices below from the menu.
 
@@ -40,7 +40,7 @@ The manager can select the following choices below from the menu.
 
 - - -
 
-### As a Supervisor below is the descriptions what the app allows:
+### As a Supervisor below is the description of what the app allows:
 
 The supervisor can select the following choices below from the menu.
 
